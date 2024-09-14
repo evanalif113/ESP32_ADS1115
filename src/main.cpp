@@ -35,7 +35,7 @@ Serial.print("\tAIN3: ");
 Serial.print(adc3);
 //Serial.print("\tVoltage: ");
 //Serial.println(Voltage, 7); 
-//Serial.println();
+Serial.println();
 
 delay(1000);
 }
